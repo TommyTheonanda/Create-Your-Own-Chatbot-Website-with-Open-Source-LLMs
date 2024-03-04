@@ -3,7 +3,7 @@
 
 ## Authors
 
-- [@Sina Nazeri (PhD.)](https://www.linkedin.com/in/sina-nazeri/)
+--
 <br>
 
 
